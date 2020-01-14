@@ -4,7 +4,6 @@ This is the first file in this repo.
 
 ## Ipsum Below
 
-I wanted to check in with everyone with some updates in the world of Git and Github.
 
 www.Ram.com
 www.org.com
